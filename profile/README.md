@@ -2,6 +2,7 @@
 
 NexBot Development
 ==================
+NexBot Dev is an organization created to focus on developing discord bots with discord.js
 
 </div>
 
